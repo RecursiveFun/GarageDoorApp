@@ -23,3 +23,6 @@ app/build/
 *.keystore
 google-services.json
 secrets.properties
+
+# Nested / leftover clone — not part of this app
+Android_AutoOpenGarageDoor/
