@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Classic WiFi fan — raised and scaled down -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M41,44 A13,13 0 0,1 67,44 L 64.5,44 A10.5,10.5 0 0,0 41,44 Z" />
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M44.5,44 A9.5,9.5 0 0,1 63.5,44 L 61.5,44 A 7.5,7.5 0 0,0 44.5,44 Z" />
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M48,44 A6,6 0 0,1 60,44 L 58.5,44 A4.5,4.5 0 0,0 48,44 Z" />
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M54,46.5 m-2.5,0 a2.5,2.5 0 1,1 5,0 a2.5,2.5 0 1,1 -5,0" />
+
+    <!-- House body (orange) -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M34,58 L54,42 L74,58 L74,82 L34,82 Z" />
+
+    <!-- Garage bay -->
+    <path
+        android:fillColor="#F57C00"
+        android:pathData="M44,66 L64,66 L64,82 L44,82 Z" />
+
+    <!-- Garage door panels -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,68 L62,68 L62,71 L46,71 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,73 L62,73 L62,76 L46,76 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,78 L62,78 L62,81 L46,81 Z" />
+
+    <!-- Door handle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,74 m-1,0 a1,1 0 1,1 2,0 a1,1 0 1,1 -2,0" />
+
+</vector>
